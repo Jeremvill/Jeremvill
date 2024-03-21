@@ -2,7 +2,7 @@
 - 👀 I’m interested in developpement
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on discord
-- 📫 How to reach me ? Send a message to Jerem#8383 on discord or send a mail to jyaytb@gmail.com
+- 📫 How to reach me ? Send a message to jeremboss on discord or send a mail to jyaytb@gmail.com
 - 📽My project is Heberking (SOON)
 - 📜I'm recruiting on discord 
 - 🙄I'm intressed by everything 

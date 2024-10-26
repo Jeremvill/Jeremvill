@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Jeremvill (Jeremvill#8383)
+- 👋 Hi, I’m @Jeremvill (jeremboss)
 - 👀 I’m interested in developpement
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on discord
+- 🌱 I’m currently learning Python and C#
+- ↔️↔️ I’m looking to collaborate on discord
 - 📫 How to reach me ? Send a message to jeremboss on discord or send a mail to jyaytb@gmail.com
-- 📽My project is Heberking (SOON)
+- 📽 My project is Heberking (SOON)
 - 📜I'm recruiting on discord 
 - 🙄I'm intressed by everything 
 - 🛟I want save some beautiful project who went into the water
